@@ -6,7 +6,7 @@ import { LinkContainer } from 'react-router-bootstrap';
 
 // "Page" components
 import About from './About';
-import { FormTest } from './FormTest';
+// import { FormTest } from './FormTest';
 import Restaurant from './Restaurant';
 import Restaurants from './Restaurants';
 import NotFound from './NotFound';
